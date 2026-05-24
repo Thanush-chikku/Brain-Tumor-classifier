@@ -10,3 +10,5 @@ https://colab.research.google.com/drive/1xLk3uTiA4nxCqKnQyl2aF7RvCeMlIOYk?usp=sh
 ## Model File
 Google Drive Link:
 https://drive.google.com/file/d/1qSBuYQl8UCeg8Z4kjBBi53jK52irHsG8/view?usp=drive_link)
+## Screenshort
+https://drive.google.com/drive/folders/1-3PqHSxyorOFO4qoFwLkdGlNDh2dt6e9?usp=drive_link
